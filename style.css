@@ -32,7 +32,6 @@ table{
   text-align: center;
   margin: 10px auto;
   background-color: white;
-  font-size: 0;
  }
 td{
   border: 2px solid gray;
@@ -71,6 +70,7 @@ td{
   height: 75vmin;
   background-color: #fff;
   color: rgba(255, 255, 255, 0);
+  font-size: 0;
 }
 .w13p{
   width: 13%;
